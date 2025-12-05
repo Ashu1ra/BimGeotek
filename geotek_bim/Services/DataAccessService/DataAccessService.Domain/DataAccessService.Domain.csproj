@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Interfaces\Repositories\IRef\" />
+    <Folder Include="Interfaces\Repositories\IImport\" />
+    <Folder Include="Interfaces\Repositories\IGeo\" />
+    <Folder Include="Interfaces\Repositories\IIgt\" />
+    <Folder Include="Interfaces\Repositories\IAuth\" />
+    <Folder Include="Interfaces\Repositories\IAudit\" />
+    <Folder Include="Interfaces\Repositories\ITest\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SharpProj.NetTopologySuite" Version="9.5001.295" />
+  </ItemGroup>
+
+</Project>

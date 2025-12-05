@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Профиль 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\geotek_bim\\Services\\DataAccessService\\WebApi\\WebApi.csproj"
+    }
+  }
+}

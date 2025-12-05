@@ -1,0 +1,16 @@
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\InfrastructurePostgres\bin\Debug\net8.0\DataAccessService.InfrastructurePostgres.deps.json
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\InfrastructurePostgres\bin\Debug\net8.0\DataAccessService.InfrastructurePostgres.dll
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\InfrastructurePostgres\bin\Debug\net8.0\DataAccessService.InfrastructurePostgres.pdb
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\InfrastructurePostgres\bin\Debug\net8.0\DataAccessService.Domain.dll
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\InfrastructurePostgres\bin\Debug\net8.0\DataAccessService.Domain.pdb
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\InfrastructurePostgres\obj\Debug\net8.0\DataAccessService.InfrastructurePostgres.csproj.AssemblyReference.cache
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\InfrastructurePostgres\obj\Debug\net8.0\DataAccessService.InfrastructurePostgres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\InfrastructurePostgres\obj\Debug\net8.0\DataAccessService.InfrastructurePostgres.AssemblyInfoInputs.cache
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\InfrastructurePostgres\obj\Debug\net8.0\DataAccessService.InfrastructurePostgres.AssemblyInfo.cs
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\InfrastructurePostgres\obj\Debug\net8.0\DataAccessService.InfrastructurePostgres.csproj.CoreCompileInputs.cache
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\InfrastructurePostgres\obj\Debug\net8.0\EFCoreNpgsqlNetTopologySuite.cs
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\InfrastructurePostgres\obj\Debug\net8.0\DataAcce.BF6B1C5F.Up2Date
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\InfrastructurePostgres\obj\Debug\net8.0\DataAccessService.InfrastructurePostgres.dll
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\InfrastructurePostgres\obj\Debug\net8.0\refint\DataAccessService.InfrastructurePostgres.dll
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\InfrastructurePostgres\obj\Debug\net8.0\DataAccessService.InfrastructurePostgres.pdb
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\InfrastructurePostgres\obj\Debug\net8.0\ref\DataAccessService.InfrastructurePostgres.dll

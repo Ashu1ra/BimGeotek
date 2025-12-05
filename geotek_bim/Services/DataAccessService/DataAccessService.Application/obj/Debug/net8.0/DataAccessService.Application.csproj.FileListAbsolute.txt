@@ -1,0 +1,11 @@
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\DataAccessService.Application\bin\Debug\net8.0\DataAccessService.Application.deps.json
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\DataAccessService.Application\bin\Debug\net8.0\DataAccessService.Application.dll
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\DataAccessService.Application\bin\Debug\net8.0\DataAccessService.Application.pdb
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\DataAccessService.Application\obj\Debug\net8.0\DataAccessService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\DataAccessService.Application\obj\Debug\net8.0\DataAccessService.Application.AssemblyInfoInputs.cache
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\DataAccessService.Application\obj\Debug\net8.0\DataAccessService.Application.AssemblyInfo.cs
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\DataAccessService.Application\obj\Debug\net8.0\DataAccessService.Application.csproj.CoreCompileInputs.cache
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\DataAccessService.Application\obj\Debug\net8.0\DataAccessService.Application.dll
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\DataAccessService.Application\obj\Debug\net8.0\refint\DataAccessService.Application.dll
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\DataAccessService.Application\obj\Debug\net8.0\DataAccessService.Application.pdb
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\DataAccessService.Application\obj\Debug\net8.0\ref\DataAccessService.Application.dll

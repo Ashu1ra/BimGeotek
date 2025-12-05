@@ -1,0 +1,302 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\geotek_bim\\Services\\DataAccessService\\WebApi\\WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\geotek_bim\\Services\\DataAccessService\\DataAccessService.Domain\\DataAccessService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\geotek_bim\\Services\\DataAccessService\\DataAccessService.Domain\\DataAccessService.Domain.csproj",
+        "projectName": "DataAccessService.Domain",
+        "projectPath": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\geotek_bim\\Services\\DataAccessService\\DataAccessService.Domain\\DataAccessService.Domain.csproj",
+        "packagesPath": "C:\\Users\\ashur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\geotek_bim\\Services\\DataAccessService\\DataAccessService.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ashur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "SharpProj.NetTopologySuite": {
+              "target": "Package",
+              "version": "[9.5001.295, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\geotek_bim\\Services\\DataAccessService\\InfrastructurePostgres\\DataAccessService.InfrastructurePostgres.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\geotek_bim\\Services\\DataAccessService\\InfrastructurePostgres\\DataAccessService.InfrastructurePostgres.csproj",
+        "projectName": "DataAccessService.InfrastructurePostgres",
+        "projectPath": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\geotek_bim\\Services\\DataAccessService\\InfrastructurePostgres\\DataAccessService.InfrastructurePostgres.csproj",
+        "packagesPath": "C:\\Users\\ashur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\geotek_bim\\Services\\DataAccessService\\InfrastructurePostgres\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ashur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\geotek_bim\\Services\\DataAccessService\\DataAccessService.Domain\\DataAccessService.Domain.csproj": {
+                "projectPath": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\geotek_bim\\Services\\DataAccessService\\DataAccessService.Domain\\DataAccessService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[9.0.11, )"
+            },
+            "NetTopologySuite.IO.GeoJSON": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL.NetTopologySuite": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "SharpProj.NetTopologySuite": {
+              "target": "Package",
+              "version": "[9.5001.295, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\geotek_bim\\Services\\DataAccessService\\WebApi\\WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\geotek_bim\\Services\\DataAccessService\\WebApi\\WebApi.csproj",
+        "projectName": "WebApi",
+        "projectPath": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\geotek_bim\\Services\\DataAccessService\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\ashur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\geotek_bim\\Services\\DataAccessService\\WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ashur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\geotek_bim\\Services\\DataAccessService\\DataAccessService.Domain\\DataAccessService.Domain.csproj": {
+                "projectPath": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\geotek_bim\\Services\\DataAccessService\\DataAccessService.Domain\\DataAccessService.Domain.csproj"
+              },
+              "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\geotek_bim\\Services\\DataAccessService\\InfrastructurePostgres\\DataAccessService.InfrastructurePostgres.csproj": {
+                "projectPath": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\geotek_bim\\Services\\DataAccessService\\InfrastructurePostgres\\DataAccessService.InfrastructurePostgres.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.11, )"
+            },
+            "NetTopologySuite": {
+              "target": "Package",
+              "version": "[2.6.0, )"
+            },
+            "NetTopologySuite.IO.GeoJSON": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL.NetTopologySuite": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

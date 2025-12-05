@@ -1,0 +1,12 @@
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\DataAccessService.Domain\bin\Debug\net8.0\DataAccessService.Domain.deps.json
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\DataAccessService.Domain\bin\Debug\net8.0\DataAccessService.Domain.dll
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\DataAccessService.Domain\bin\Debug\net8.0\DataAccessService.Domain.pdb
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\DataAccessService.Domain\obj\Debug\net8.0\DataAccessService.Domain.csproj.AssemblyReference.cache
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\DataAccessService.Domain\obj\Debug\net8.0\DataAccessService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\DataAccessService.Domain\obj\Debug\net8.0\DataAccessService.Domain.AssemblyInfoInputs.cache
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\DataAccessService.Domain\obj\Debug\net8.0\DataAccessService.Domain.AssemblyInfo.cs
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\DataAccessService.Domain\obj\Debug\net8.0\DataAccessService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\DataAccessService.Domain\obj\Debug\net8.0\DataAccessService.Domain.dll
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\DataAccessService.Domain\obj\Debug\net8.0\refint\DataAccessService.Domain.dll
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\DataAccessService.Domain\obj\Debug\net8.0\DataAccessService.Domain.pdb
+C:\Users\ashur\OneDrive\Documents\personal\works\Новая папка\geotek_bim\Services\DataAccessService\DataAccessService.Domain\obj\Debug\net8.0\ref\DataAccessService.Domain.dll

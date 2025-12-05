@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessService.Domain", "DataAccessService.Domain\DataAccessService.Domain.csproj", "{F4633699-544D-46E5-91EF-919867976E2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessService.InfrastructurePostgres", "InfrastructurePostgres\DataAccessService.InfrastructurePostgres.csproj", "{7E0F475D-69A3-4C28-B1AD-65E477A88716}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessService.Application", "DataAccessService.Application\DataAccessService.Application.csproj", "{19969D5E-910D-42C7-BF47-9A3E9F76EFFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{369B8C12-2C6B-4439-8D41-70B5CBD6E282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4633699-544D-46E5-91EF-919867976E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4633699-544D-46E5-91EF-919867976E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4633699-544D-46E5-91EF-919867976E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4633699-544D-46E5-91EF-919867976E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E0F475D-69A3-4C28-B1AD-65E477A88716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E0F475D-69A3-4C28-B1AD-65E477A88716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E0F475D-69A3-4C28-B1AD-65E477A88716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E0F475D-69A3-4C28-B1AD-65E477A88716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19969D5E-910D-42C7-BF47-9A3E9F76EFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19969D5E-910D-42C7-BF47-9A3E9F76EFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19969D5E-910D-42C7-BF47-9A3E9F76EFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19969D5E-910D-42C7-BF47-9A3E9F76EFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{369B8C12-2C6B-4439-8D41-70B5CBD6E282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{369B8C12-2C6B-4439-8D41-70B5CBD6E282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{369B8C12-2C6B-4439-8D41-70B5CBD6E282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{369B8C12-2C6B-4439-8D41-70B5CBD6E282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F48284F7-52CA-4149-B712-1BB1005CEB13}
+	EndGlobalSection
+EndGlobal
