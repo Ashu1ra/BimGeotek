@@ -44,7 +44,6 @@ public class GenericCrudController<T> : ControllerBase where T : class
         var existing = await _repository.GetByIdAsync(id);
         if (existing == null) return NotFound();
 
-        // Копируем свойства из model в existing
         CopyProperties(model, existing);
 
         await _repository.UpdateAsync(existing);
@@ -61,9 +60,6 @@ public class GenericCrudController<T> : ControllerBase where T : class
         return NoContent();
     }
 
-    // -------------------
-    // Вспомогательные методы
-    // -------------------
     private long GetEntityId(T entity)
     {
         var prop = typeof(T).GetProperty("Id");

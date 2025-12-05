@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\geotek_bim\\Services\\DataAccessService\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\BimGeotek\\geotek_bim\\Services\\DataAccessService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0F475D-69A3-4C28-B1AD-65E477A88716}|InfrastructurePostgres\\DataAccessService.InfrastructurePostgres.csproj|c:\\users\\ashur\\onedrive\\documents\\personal\\works\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\bimgeotek\\geotek_bim\\services\\dataaccessservice\\infrastructurepostgres\\persistence\\configurations\\auditconfigurations\\log_borehole_intervalconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0F475D-69A3-4C28-B1AD-65E477A88716}|InfrastructurePostgres\\DataAccessService.InfrastructurePostgres.csproj|solutionrelative:infrastructurepostgres\\persistence\\configurations\\auditconfigurations\\log_borehole_intervalconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369B8C12-2C6B-4439-8D41-70B5CBD6E282}|WebApi\\WebApi.csproj|c:\\users\\ashur\\onedrive\\documents\\personal\\works\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\bimgeotek\\geotek_bim\\services\\dataaccessservice\\webapi\\controllers\\genericcrudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369B8C12-2C6B-4439-8D41-70B5CBD6E282}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\genericcrudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Log_borehole_intervalConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\BimGeotek\\geotek_bim\\Services\\DataAccessService\\InfrastructurePostgres\\Persistence\\Configurations\\AuditConfigurations\\Log_borehole_intervalConfig.cs",
+              "RelativeDocumentMoniker": "InfrastructurePostgres\\Persistence\\Configurations\\AuditConfigurations\\Log_borehole_intervalConfig.cs",
+              "ToolTip": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\BimGeotek\\geotek_bim\\Services\\DataAccessService\\InfrastructurePostgres\\Persistence\\Configurations\\AuditConfigurations\\Log_borehole_intervalConfig.cs",
+              "RelativeToolTip": "InfrastructurePostgres\\Persistence\\Configurations\\AuditConfigurations\\Log_borehole_intervalConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T16:48:08.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericCrudController.cs",
+              "DocumentMoniker": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\BimGeotek\\geotek_bim\\Services\\DataAccessService\\WebApi\\controllers\\GenericCrudController.cs",
+              "RelativeDocumentMoniker": "WebApi\\controllers\\GenericCrudController.cs",
+              "ToolTip": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\BimGeotek\\geotek_bim\\Services\\DataAccessService\\WebApi\\controllers\\GenericCrudController.cs",
+              "RelativeToolTip": "WebApi\\controllers\\GenericCrudController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T16:47:07.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

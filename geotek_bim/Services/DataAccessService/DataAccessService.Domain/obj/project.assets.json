@@ -159,11 +159,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\geotek_bim\\Services\\DataAccessService\\DataAccessService.Domain\\DataAccessService.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\BimGeotek\\geotek_bim\\Services\\DataAccessService\\DataAccessService.Domain\\DataAccessService.Domain.csproj",
       "projectName": "DataAccessService.Domain",
-      "projectPath": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\geotek_bim\\Services\\DataAccessService\\DataAccessService.Domain\\DataAccessService.Domain.csproj",
+      "projectPath": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\BimGeotek\\geotek_bim\\Services\\DataAccessService\\DataAccessService.Domain\\DataAccessService.Domain.csproj",
       "packagesPath": "C:\\Users\\ashur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\geotek_bim\\Services\\DataAccessService\\DataAccessService.Domain\\obj\\",
+      "outputPath": "C:\\Users\\ashur\\OneDrive\\Documents\\personal\\works\\Новая папка\\BimGeotek\\geotek_bim\\Services\\DataAccessService\\DataAccessService.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
